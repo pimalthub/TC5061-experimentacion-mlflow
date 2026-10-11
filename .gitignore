@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Salidas de MLflow (se regeneran al ejecutar)
+mlflow.db
+mlruns/
+mlartifacts/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,10 @@
+# Versiones exactas usadas en las corridas reportadas (Python 3.13; requiere Python >= 3.11)
+mlflow==3.17.0
+scikit-learn==1.9.1
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+matplotlib==3.11.2
+# Solo para el notebook de exploración
+seaborn==0.13.2
+jupyter
